@@ -8,7 +8,7 @@ license=('GPL3')
 depends=(
     'btop'
 )
-source=('.config')
+source=()
 md5sums=('SKIP')
 install=stratos-btop-config.install
 prepare() {
