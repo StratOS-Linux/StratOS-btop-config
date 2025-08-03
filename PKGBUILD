@@ -9,7 +9,6 @@ depends=(
     'btop'
 )
 source=()
-md5sums=('SKIP')
 install=stratos-btop-config.install
 prepare() {
     cp -r "$startdir/.config/" "$srcdir/"
