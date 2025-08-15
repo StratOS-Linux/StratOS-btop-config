@@ -1,5 +1,5 @@
 # Maintainer: @zstg <zestig@duck.com>
-pkgname=stratos-mako-config
+pkgname=stratos-btop-config
 pkgver=1.0
 pkgrel=1
 pkgdesc="Btop configuration for StratOS"
